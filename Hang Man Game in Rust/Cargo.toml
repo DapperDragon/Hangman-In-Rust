@@ -1,0 +1,10 @@
+[package]
+name = "hangman"
+version = "0.0.1"
+authors = ["Gary Hughes <B00330262@studentmail.uws.ac.uk>"]
+edition = "2018"
+
+
+[dependencies]
+unicode-segmentation = "1.7.1"
+rand = "0.8.0"
